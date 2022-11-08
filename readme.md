@@ -7,7 +7,7 @@ Please design the given mock up
 - Pagination to navigate between cards
 - Navigation when clicking on customer cards
 - in internal page with more details of customers (use your creativity)
-- We'll be happy, if you write unit tests for it
+- We'll be happy, if you write unit tests for it1
 
 ## _Main Objective_
  - Your coding style
