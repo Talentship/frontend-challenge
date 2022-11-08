@@ -4,7 +4,7 @@ Please design the given mock up
 ## You should develop:
 - Filter by state
 - Search by name and/or last name
-- Pagination to navigate between cards
+- Pagination to navigate between (pavan kumar)
 - Navigation when clicking on customer cards
 - in internal page with more details of customers (use your creativity)
 - We'll be happy, if you write unit tests for it
